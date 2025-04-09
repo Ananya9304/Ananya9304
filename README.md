@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/45d2204e-bdca-430c-ba3e-98e7e06812a2" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ananya9304.Ananya9304" />
 
