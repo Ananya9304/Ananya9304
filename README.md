@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+folks!+👋;+Myself+Ananya+Ghosh!;" />
 </h1>
 
-<h3 align="center">A software developer passionate about AI and machine learning.</h3>
+<h3 align="center">A frontend developer passionate about crafting intuitive user interfaces.</h3>
 
 <br/>
 
@@ -35,8 +35,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,scss,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,nextjs,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,pytorch,tensorflow,appwrite,redis,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,cpp,nextjs" /><br>
+
 </div>
 
 <br/>
