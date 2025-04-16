@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently exploring **Devops, AI**
+ 
 
 💬 Ask me about **Next.js, React, Typescript... or anything [here](https://github.com/Ananya9304/Ananya9304/issues)**
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,scss,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,cpp,nextjs" /><br>
 
 </div>
